@@ -14,6 +14,15 @@
 
 这俩都可以找我买，都是最划算的，梯子60，GPT3.5账号4元一个
 
+### git
+
+目前世界上最先进的分布式版本控制系统
+
+![](./pic/gitStructure.png)
+
+
+【【干货】Git本地管理14分钟光速入门【技术推广】】 https://www.bilibili.com/video/BV1FH4y177pQ/?share_source=copy_web&vd_source=b79b0edd8533cef00da520163b9d920e
+
 ### Code Runner  
 
 ```python
