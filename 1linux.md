@@ -20,7 +20,7 @@
 | wget   | 从网上检索文件             | wget [选项] [URL]                                                    |
 | chmod  | 更改文件模式或访问权限     | chmod [选项] 模式 文件名                                             |
 | ps     | 报告当前进程概览           | ps                                                                   |
-| jtop   | 实时监控系统               |                                                                      |
+| htop   | 实时监控系统               |                                                                      |
 | kill   | 终止进程                   | kill 533494                                                          |
 | nohup  | 退出终端后继续运行         | nohup python helloworld.py &                                         |
 | ping   | 测试网络连接               | ping baidu.com                                                       |
